@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnemesi)](https://github.com/itsnemesi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnemesi&layout=compact)](https://github.com/itsnemesi)
