@@ -12,3 +12,6 @@
  - C++
  - Lua
  - JS
+
+# Information
+[Website](https://thwr.tech/)
