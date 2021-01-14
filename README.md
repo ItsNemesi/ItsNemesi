@@ -1,5 +1,7 @@
-![STATS](https://github-readme-stats.vercel.app/api?username=itsnemesi&show_icons=true&theme=radical)
 
+<div style="text-align:center">
+![STATS](https://github-readme-stats.vercel.app/api?username=itsnemesi&show_icons=true&theme=radical)
+</div>
 # Skills
 - .Net
   - ASP.Net Core
